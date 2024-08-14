@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body{
+                background-image: url(pngtree-landscape-jpg-wallpapers-free-download-image_2573540.jpg);
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: 100% 100%;
+        }
+    </style>
+   
+   <center><font size="10" color="orange" face="Aquire"> About us </font></center><br><br><br><br>
+   <center><th> <a href="file:///C:/Users/user/Desktop/AR/programming/web"><font size="6" color="violet" face="Aquire"> Tap to go Home</font></a></th></center><br><br><br><br>
+   
+   <right><font size="5" color="red" face="Aquire">    Name:Alen Rahman <br><br>age:13 <br><br>from:kozhikode,kerala <br><br>phone no:9846607290 </font>
+   </right>
+ 
